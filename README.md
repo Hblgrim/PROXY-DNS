@@ -13,7 +13,7 @@ permet de leurrer une machine pour la rediriger vers une autre destination.
 
 - **Makefile** : permet la compilation du code métier (cible main) et des tests unitaires (cible tests) .
 
-- **Le répertoire lib** : Contenant les librairies statiques et dynamiques de fonctions définies , utilisé dans le programme .
+- **Le répertoire lib** : Contenant les librairies statiques et dynamiques de fonctions définies , utilisés dans le programme .
 
 - **Le répertoire src** : le répertoire src contient les fichiers sources .c du projet .
 
@@ -34,7 +34,6 @@ La commande **make clean** efface tous les fichiers objets et fichiers binaires.
 
 La commande **make mrproper** efface tous les fichiers créés par la compilation du projet.
 
-La commande **make arraylist_re** recompile arraylist.
 
 
 ## L’usage :
